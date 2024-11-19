@@ -19,6 +19,6 @@ Este repositorio contiene:
 - **EntregaFinal.ipynb**: El informe con todo el código y análisis.
 - **Final.xlsx**: La base de datos utilizada.
 - **Poster.pdf**: El póster resumen del proyecto.
-- **Data Colegios.xlsx**: Base de datos con colegios
-- **Sanciones.xlsx**: Base de datos con las sanciones recibidas
-- **Denuncias_procesado.xlsx**: Base de datos con las denuncias
+- **Data Colegios.xlsx**: Base de datos con colegios.
+- **Sanciones.xlsx**: Base de datos con las sanciones recibidas.
+- **Denuncias_procesado.xlsx**: Base de datos con las denuncias.

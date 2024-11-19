@@ -1,4 +1,4 @@
-¿Sabes qué sucede después de una denuncia escolar?, sanción en la mayoría de los casos, donde esperamos que esa medida sirva como un llamado de atención, un freno para los problemas. 
+¿Sabes qué sucede después de una denuncia escolar?, el conducto regular sería una sanción, donde esperamos que esa medida sirva como un llamado de atención, un freno para los problemas. 
 Sin embargo, nuestros análisis revelan una realidad inquietante: 
 En los colegios sancionados, las denuncias no disminuyen, si no, aumenta hasta un 219%. Esto no es un error menor, es una señal de que nuestras sanciones no están resolviendo los problemas.
 

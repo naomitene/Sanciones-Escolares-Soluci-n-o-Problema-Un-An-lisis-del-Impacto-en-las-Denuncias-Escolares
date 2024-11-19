@@ -1,3 +1,5 @@
+# Proyecto: Escuelas en el Punto de Mira: ¿Funcionan las Sanciones para Reducir Denuncias?
+
 ¿Sabes qué sucede después de una denuncia escolar?, el conducto regular sería una sanción, donde esperamos que esa medida sirva como un llamado de atención, un freno para los problemas. 
 Sin embargo, nuestros análisis revelan una realidad inquietante: 
 En los colegios sancionados, las denuncias no disminuyen, si no, aumenta hasta un 219%. Esto no es un error menor, es una señal de que nuestras sanciones no están resolviendo los problemas.
@@ -13,7 +15,6 @@ Es hora de un cambio. Necesitamos políticas que no solo sancionen, sino que tam
 Proponemos intervenciones en colegios de alto riesgo, capacitación en resolución de conflictos y un enfoque más inclusivo que considere las particularidades de cada comunidad educativa. 
 No se trata solo de castigar, sino de construir un mundo mejor.
 
-# Proyecto: [Nombre del Proyecto]
 Este repositorio contiene:
 - **EntregaFinal.ipynb**: El informe con todo el código y análisis.
 - **Final.xlsx**: La base de datos utilizada.

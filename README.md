@@ -12,3 +12,12 @@ sino que reflejan conflictos más profundos en los colegios. No podemos quedarno
 Es hora de un cambio. Necesitamos políticas que no solo sancionen, sino que también prevengan. 
 Proponemos intervenciones en colegios de alto riesgo, capacitación en resolución de conflictos y un enfoque más inclusivo que considere las particularidades de cada comunidad educativa. 
 No se trata solo de castigar, sino de construir un mundo mejor.
+
+# Proyecto: [Nombre del Proyecto]
+Este repositorio contiene:
+- **EntregaFinal.ipynb**: El informe con todo el código y análisis.
+- **Final.xlsx**: La base de datos utilizada.
+- **Poster.pdf**: El póster resumen del proyecto.
+- **Data Colegios.xlsx**: Base de datos con colegios
+- **Sanciones.xlsx**: Base de datos con las sanciones recibidas
+- **Denuncias_procesado.xlsx**: Base de datos con las denuncias
